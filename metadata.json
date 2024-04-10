@@ -1,7 +1,7 @@
 {
-  "name": "Saint Rat",
-  "website": "https://saintr.at",
-  "description": "Long term Ethereum hobbyist, Validator and llama.  Aspiring to run all profitable but risk-minimised AVSs.  Currently on running AWS while my own hardware comes online next week.  My hardware will be co-located with fiber internet and 100% uptime guarantee.  My server will have enough storage and power to run 2 solana nodes and Llama-70B at once.",
-  "logo": "https://raw.githubusercontent.com/saint-rat/eigenlayer/main/saintrat.png",
-  "twitter": "https://twitter.com/saint_rat"
-}
+    "name": "Saint Rat",
+    "website": "https://saintr.at",
+    "description": "Ethereum Validator and long-term hobbyist. Aspiring to run all profitable but risk-minimised AVSs on my own hardware (no AWS, etc), co-located with fiber and 100% uptime guarantee. Carbon Neutral.",
+    "logo": "https://github.com/saint-rat/eigenlayer/saintrat.png",
+    "twitter": "https://twitter.com/saint_rat"
+}  
